@@ -1,7 +1,7 @@
 # Author: Delainee Lenss
 # Github username: delainee64
 # Date: 10/02/2022
-# Description: Code asks the user for five numbers and then prints the average of the numbers.
+# Description: Asks the user for five numbers and then prints the average of the numbers.
 
 print("Please enter five numbers.")
 first_num = float(input())
